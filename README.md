@@ -2,6 +2,10 @@
 ## Certificate
 https://www.codecademy.com/users/Khanh.Le/achievements
 ## Cheatsheets
+```
+global vs window
+require('module').builtinModules
+```
 ## Courses
 ### https://www.codecademy.com/learn/learn-node-js
 ### https://www.codecademy.com/learn/learn-express

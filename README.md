@@ -5,6 +5,7 @@ https://www.codecademy.com/users/Khanh.Le/achievements
 ```
 global vs window
 require('module').builtinModules
+module.exports.name = ...
 ```
 ## Courses
 ### https://www.codecademy.com/learn/learn-node-js

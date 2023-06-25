@@ -17,3 +17,5 @@ module.exports.name = ...
 ### Swagger 
 
 [Swagger-Node](https://github.com/swagger-api/swagger-node)
+## Notes
+- [ ] Better for reuse JavaScript, Python skills
